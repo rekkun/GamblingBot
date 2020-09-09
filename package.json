@@ -1,0 +1,26 @@
+{
+  "name": "gamblingbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "discord.js": "^11.6.1",
+    "mongodb": "^3.6.1",
+    "mongoose": "^5.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekkun1-xkx-me/GamblingBot.git"
+  },
+  "author": "Rek#1868",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rekkun1-xkx-me/GamblingBot/issues"
+  },
+  "homepage": "https://github.com/rekkun1-xkx-me/GamblingBot#readme"
+}
